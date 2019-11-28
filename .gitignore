@@ -36,3 +36,5 @@
 
 # Markdown
 !/**/*.md
+# But do not track test output
+data/calculations/state_report_output.md
