@@ -53,12 +53,15 @@ class State:
             self.votes[party] = self.votes.get(party, 0) + new_votes[party]
             self.total_votes += new_votes[party]
 
-    def write_report(self):
+    def write_report(self,test=False):
         with open('state_report_template.md', 'r') as file:
             templateFromFile = Template(file.read(),trim_blocks=True)
 
-        output_string = templateFromFile.render(state=self)
+        if test:
+            output_filename = "state_report_output.md"
+        else:
+            output_filename = "../../reports/state_report_" + self.state + ".md"
 
-        output_file = open("state_report_output.md", "w")
-        output_file.write(output_string)
+        output_file = open(output_filename, "w")
+        output_file.write(templateFromFile.render(state=self))
         output_file.close()
