@@ -3,6 +3,7 @@ from Election import Election
 class District:
 
     def __init__(self, d_id,d_data):
+        self.district_voters = 0
         self.id = d_id
         self.data = d_data
 

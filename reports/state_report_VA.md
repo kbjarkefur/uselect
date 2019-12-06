@@ -8,10 +8,10 @@ The last column shows the percentage point (pp) difference in percentage of vote
 
 | Party | Mandates | Votes | % of Votes |  % of mandates | Diff % of votes minus % of mandates |
 |---|--:|--:|--:|--:|--:|
-|R|6|1,632,219|52.66%|66.67%|-14.0 pp|
-|D|3|1,423,896|45.93%|33.33%|12.6 pp|
-|IND|0|36,580|1.18%|0.00%|1.2 pp|
-|W|0|7,114|0.23%|0.00%|0.2 pp|
+|R|7|1,843,010|48.73%|63.64%|-14.9 pp|
+|D|4|1,859,426|49.16%|36.36%|12.8 pp|
+|IND|0|36,580|0.97%|0.00%|1.0 pp|
+|W|0|43,232|1.14%|0.00%|1.1 pp|
 
 ## Adjustment mandates
 
@@ -21,10 +21,10 @@ Adjustment mandate 1 would have gone to party **D**.
 
 | Party | Mandates | Votes | % of Votes |  % of mandates | Diff % of votes minus % of mandates |
 |---|--:|--:|--:|--:|--:|
-|R|6|1,632,219|52.66%|60.00%|-7.3 pp|
-|D|4|1,423,896|45.93%|40.00%|5.9 pp|
-|IND|0|36,580|1.18%|0.00%|1.2 pp|
-|W|0|7,114|0.23%|0.00%|0.2 pp|
+|R|7|1,843,010|48.73%|58.33%|-9.6 pp|
+|D|5|1,859,426|49.16%|41.67%|7.5 pp|
+|IND|0|36,580|0.97%|0.00%|1.0 pp|
+|W|0|43,232|1.14%|0.00%|1.1 pp|
 
 ### Adjustment mandates 2
 
@@ -32,10 +32,10 @@ Adjustment mandate 2 would have gone to party **D**.
 
 | Party | Mandates | Votes | % of Votes |  % of mandates | Diff % of votes minus % of mandates |
 |---|--:|--:|--:|--:|--:|
-|R|6|1,632,219|52.66%|54.55%|-1.9 pp|
-|D|5|1,423,896|45.93%|45.45%|0.5 pp|
-|IND|0|36,580|1.18%|0.00%|1.2 pp|
-|W|0|7,114|0.23%|0.00%|0.2 pp|
+|R|7|1,843,010|48.73%|53.85%|-5.1 pp|
+|D|6|1,859,426|49.16%|46.15%|3.0 pp|
+|IND|0|36,580|0.97%|0.00%|1.0 pp|
+|W|0|43,232|1.14%|0.00%|1.1 pp|
 
 ### Adjustment mandates 3
 
@@ -43,10 +43,10 @@ Adjustment mandate 3 would have gone to party **D**.
 
 | Party | Mandates | Votes | % of Votes |  % of mandates | Diff % of votes minus % of mandates |
 |---|--:|--:|--:|--:|--:|
-|R|6|1,632,219|52.66%|50.00%|2.7 pp|
-|D|6|1,423,896|45.93%|50.00%|-4.1 pp|
-|IND|0|36,580|1.18%|0.00%|1.2 pp|
-|W|0|7,114|0.23%|0.00%|0.2 pp|
+|R|7|1,843,010|48.73%|50.00%|-1.3 pp|
+|D|7|1,859,426|49.16%|50.00%|-0.8 pp|
+|IND|0|36,580|0.97%|0.00%|1.0 pp|
+|W|0|43,232|1.14%|0.00%|1.1 pp|
 
 
 ## Districts
@@ -135,3 +135,20 @@ Winner of mandate in VA_09 is **R**
 |D|87877|0
 |IND|9050|0
 |W|562|0
+
+### District VA_10
+Winner of mandate in VA_10 is **R**
+
+| Party | Votes | Mandate |
+|---|---|---|
+|R|210791|1
+|D|187712|0
+|W|1614|0
+
+### District VA_11
+Winner of mandate in VA_11 is **D**
+
+| Party | Votes | Mandate |
+|---|---|---|
+|D|247818|1
+|W|34504|0
